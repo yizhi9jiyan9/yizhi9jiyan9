@@ -3,7 +3,7 @@
 目前正在开发 红量展信 - RoFAlien 红石显示资源包。
 
 ![yizhi9jiyan9's GitHub stats](https://github-readme-stats.vercel.app/api?username=yizhi9jiyan9&show_icons=true&theme=github_dark_dimmed)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark_dimmed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yizhi9jiyan9&layout=compact&theme=github_dark_dimmed)
 
 <!--
 **yizhi9jiyan9/yizhi9jiyan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
