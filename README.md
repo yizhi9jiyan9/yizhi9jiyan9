@@ -1,6 +1,6 @@
 ## Hey! 这里是 yIzhI9jIyan9 👋
 欢迎来到这个没有人光顾的主页w :D  
-目前正在开发 红量展信 - RoFAlien 红石显示资源包。
+~~目前正在开发 红量展信 - RoFAlien 红石显示资源包。~~ 开摆
 
 ![yizhi9jiyan9's GitHub stats](https://github-readme-stats.vercel.app/api?username=yizhi9jiyan9&show_icons=true&theme=github_dark_dimmed)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yizhi9jiyan9&layout=compact&theme=github_dark_dimmed)
